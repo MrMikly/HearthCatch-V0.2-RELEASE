@@ -20,3 +20,5 @@ ColdLake - https://www.youtube.com/watch?v=W-xWb2CQxX8
 - Pygame
 - Random
 - Time
+- Sys
+- ConfigParser
