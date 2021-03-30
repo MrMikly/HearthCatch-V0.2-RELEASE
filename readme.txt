@@ -15,3 +15,8 @@ https://opengameart.org
 
 ============== music ================
 ColdLake - https://www.youtube.com/watch?v=W-xWb2CQxX8
+
+============= libs ===========
+- Pygame
+- Random
+- Time
