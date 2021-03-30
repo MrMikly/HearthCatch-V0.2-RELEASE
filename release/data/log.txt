@@ -1,0 +1,186 @@
+===================================================
+
+Tue Mar 30 21:15:59 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 250; Y: 436; ExitCode-0
+
+Tue Mar 30 21:15:59 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 250; Y: 436; ExitCode-0
+
+Tue Mar 30 21:15:59 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 250; Y: 436; ExitCode-0
+
+Tue Mar 30 21:15:59 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 250; Y: 436; ExitCode-0
+
+Tue Mar 30 21:15:59 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 250; Y: 436; ExitCode-0
+
+Tue Mar 30 21:15:59 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 250; Y: 436; ExitCode-0
+
+Tue Mar 30 21:15:59 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 250; Y: 436; ExitCode-0
+
+Tue Mar 30 21:15:59 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 250; Y: 436; ExitCode-0
+
+Tue Mar 30 21:15:59 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 250; Y: 436; ExitCode-0
+
+Tue Mar 30 21:15:59 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 250; Y: 436; ExitCode-0
+
+Tue Mar 30 21:15:59 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 250; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:00 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 193; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:00 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 193; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:00 2021: BonusList-<Group(1 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 352; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:05 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 352; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:06 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 130; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:06 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 130; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:07 2021: BonusList-<Group(2 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 328; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:07 2021: BonusList-<Group(2 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 328; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:09 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 43; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:09 2021: BonusList-<Group(2 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 43; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:10 2021: BonusList-<Group(2 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 208; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:10 2021: BonusList-<Group(2 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 208; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:10 2021: BonusList-<Group(2 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 244; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:11 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 244; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:11 2021: BonusList-<Group(2 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 277; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:11 2021: BonusList-<Group(2 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 277; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:12 2021: BonusList-<Group(2 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 214; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:12 2021: BonusList-<Group(2 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 214; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:13 2021: BonusList-<Group(2 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 178; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:14 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 178; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:14 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 154; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:15 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 154; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:15 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 175; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:15 2021: BonusList-<Group(4 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 175; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:15 2021: BonusList-<Group(4 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 151; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:19 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 151; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:19 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 274; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:21 2021: BonusList-<Group(4 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 274; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:21 2021: BonusList-<Group(4 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 238; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:22 2021: BonusList-<Group(4 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 238; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:22 2021: BonusList-<Group(4 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 163; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:23 2021: BonusList-<Group(4 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 163; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:24 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 325; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:25 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 325; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:26 2021: BonusList-<Group(3 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 226; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:29 2021: BonusList-<Group(4 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 226; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:29 2021: BonusList-<Group(4 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 205; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:30 2021: BonusList-<Group(5 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 205; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:30 2021: BonusList-<Group(5 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 145; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:31 2021: BonusList-<Group(5 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 145; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:31 2021: BonusList-<Group(5 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 118; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:33 2021: BonusList-<Group(6 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 118; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:33 2021: BonusList-<Group(6 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 88; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:33 2021: BonusList-<Group(6 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 88; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:34 2021: BonusList-<Group(6 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 115; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:34 2021: BonusList-<Group(6 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 115; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:34 2021: BonusList-<Group(6 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 139; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:35 2021: BonusList-<Group(7 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 139; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:35 2021: BonusList-<Group(7 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 193; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:35 2021: BonusList-<Group(7 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 193; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:35 2021: BonusList-<Group(7 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 217; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:36 2021: BonusList-<Group(7 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 217; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:36 2021: BonusList-<Group(7 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 178; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:36 2021: BonusList-<Group(7 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 178; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:36 2021: BonusList-<Group(7 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 292; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:37 2021: BonusList-<Group(8 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 292; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:37 2021: BonusList-<Group(8 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 349; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:37 2021: BonusList-<Group(7 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 349; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:38 2021: BonusList-<Group(7 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 247; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:38 2021: BonusList-<Group(7 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 247; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:38 2021: BonusList-<Group(7 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 226; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:41 2021: BonusList-<Group(8 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 226; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:41 2021: BonusList-<Group(8 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 217; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:46 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 217; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:46 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 352; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:47 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 352; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:48 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 430; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:49 2021: BonusList-<Group(8 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 430; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:49 2021: BonusList-<Group(8 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 451; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:53 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 451; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:54 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 208; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:56 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 208; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:56 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 166; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:58 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 166; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:58 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 214; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:58 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 214; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:59 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 250; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:59 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 250; Y: 436; ExitCode-0
+
+Tue Mar 30 21:16:59 2021: BonusList-<Group(10 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 331; Y: 436; ExitCode-0
+
+Tue Mar 30 21:17:00 2021: BonusList-<Group(10 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 331; Y: 436; ExitCode-0
+
+Tue Mar 30 21:17:01 2021: BonusList-<Group(9 sprites)>; PlayerList-<Group(1 sprites)>; PlayerCoords-X: 154; Y: 436; ExitCode-0
+
